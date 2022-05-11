@@ -9,7 +9,7 @@ An aspiring Full Stack JavaScript Developer
   All of my projects are available below the link (click on that image) ,
 </samp><br/>
   <a href="https://the-fullstack-developer.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
-  <p align="center"> (Open to Work)</p>
+<!--   <p align="center"> (Open to Work)</p> -->
 </p>
 <hr>
 <div>
